@@ -1,0 +1,3 @@
+run streamlit chat
+
+streamlit run app.py
